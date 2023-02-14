@@ -29,6 +29,7 @@ RFCs are considered a "work in progress", even after they are merged. In other w
 haven't been endorsed by the community yet, but they seem like reasonable ideas worth
 exploring.
 
+
 #### DEMONSTRATED
 __Demonstrated__ RFCs have one or more implementations available, listed in the "Implementations" section of the RFC document. As with the PROPOSED status, demonstrated RFCs haven't been endorsed by the community, but the ideas put forth have been more thoroughly explored through the implementation(s). The demonstrated status is an optional step in the lifecycle. For protocol-related RFCs, work on protocol tests SHOULD begin in the [test suite repo](https://github.com/hyperledger/aries-protocol-test-suite) by the time this status is assigned.
 
