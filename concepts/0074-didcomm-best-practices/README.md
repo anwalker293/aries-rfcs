@@ -1,7 +1,7 @@
 # Aries RFC 0074: DIDComm Best Practices
 
 - Authors: Devin Fisher, Daniel Hardman
-- Status: [PROPOSED](/README.md#proposed)
+- Status: [ACCEPTED](/README.md#accepted)
 - Since: 2019-06-10
 - Status Note: This captures some tribal knowledge from the Indy community. However, it is by no means uniformly accepted inside that group, and it has never been shared in a larger context. Therefore, the RFC is currently fodder for discussion.
 - Start Date: 2019-01-15
